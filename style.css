@@ -1,4 +1,4 @@
-@import url("https://chinese-fonts-cdn.deno.dev/packages/zqfs/dist/ZhuqueFangsong-Regular/result.css");
+@import url("https://chinese-fonts-cdn.deno.dev/packages/yozai/dist/Yozai-Medium/result.css");
 
 * {
   box-sizing: border-box;
@@ -10,7 +10,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
-  font-family: "Zhuque Fangsong (technical preview)", sans-serif;
+  font-family: "Yozai Medium", sans-serif;
   margin: 0;
   min-height: 100vh;
   padding: 20px 0;
